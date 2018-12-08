@@ -31,3 +31,9 @@ I would recommend to follow these links along with going through the IE ML SMP S
     - See python programing net links from above.
     
 Emphasise more on implementation side of things.The basic ML part try to understand the theory properly.
+
+## Instructions
+
+- Make a seperate folder called data in the root directory
+- Download the full data [zip file](https://www.kaggle.com/c/visual-question-answering/data)
+- Run `create_csv.py` in scripts folder

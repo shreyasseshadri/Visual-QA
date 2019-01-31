@@ -10,8 +10,7 @@ Dataset:  http://visualqa.org/
 - For conceptual understanding see Deep learning course on coursera by andrewNG
 
 ## Detailed Course plan
-I would recommend to follow these links along with going through the IE ML SMP Slack Channel.<br>
-[Slack invite Link for IE ML SMP](https://join.slack.com/t/iemlsmp/shared_invite/enQtNDU0NDQ1Nzg3NzI4LTA5MTU4NWU0YmI2NmI0ZThiNzM3ZGM1YzhmZWEwMDEyNGQ2NTViYTc0NzBiZTI3NWZlMDAyZDcxYzVhNWVmMWM) 
+I would recommend to follow these links.
 - Basic ML
     - [python programming net-This is a really good website containing Explanations and implementains of ML basics.Follow all the steps.](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
     - Andrew NG Coursera
